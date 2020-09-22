@@ -2,4 +2,4 @@
 Example repository for DevApps Course
 
 -Gulyas will be uploaded
--Omlett is missing
+-Omlett will be uploaded
